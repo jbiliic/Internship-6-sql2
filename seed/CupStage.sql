@@ -1,0 +1,13 @@
+insert into CupStage (stage_id, stage) values (1, 'gr-g1');
+insert into CupStage (stage_id, stage) values (2, 'gr-g2');
+insert into CupStage (stage_id, stage) values (3, 'gr-g3');
+insert into CupStage (stage_id, stage) values (4, 'gr-g4');
+insert into CupStage (stage_id, stage) values (5, 'gr-g5');
+insert into CupStage (stage_id, stage) values (6, 'gr-g6');
+insert into CupStage (stage_id, stage) values (7, 'ro16-g1');
+insert into CupStage (stage_id, stage) values (8, 'qf-g1');
+insert into CupStage (stage_id, stage) values (9, 'sf-g1');
+insert into CupStage (stage_id, stage) values (10, 'ro16-g2');
+insert into CupStage (stage_id, stage) values (11, 'qf-g2');
+insert into CupStage (stage_id, stage) values (12, 'sf-g2');
+insert into CupStage (stage_id, stage) values (13, 'f');
