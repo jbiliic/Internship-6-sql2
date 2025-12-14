@@ -1,0 +1,10 @@
+CREATE INDEX idx_ctr_cup_id ON CupTeamRel(cup_id);
+CREATE INDEX idx_ctr_team_id ON CupTeamRel(team_id);
+CREATE INDEX idx_games_cup_id ON Games(cup_id);
+CREATE INDEX idx_games_home_team ON Games(home_team);
+CREATE INDEX idx_games_away_team ON Games(away_team);
+CREATE INDEX idx_ge_game_id ON GameEvents(game_id);
+CREATE INDEX idx_ge_player_id ON GameEvents(player_id);
+CREATE INDEX idx_players_team_id ON Players(team_id);
+CREATE INDEX idx_ge_e_type ON GameEvents(e_type);
+CREATE INDEX idx_games_game_date ON Games(game_date);

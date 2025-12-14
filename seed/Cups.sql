@@ -140,18 +140,18 @@ insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (140, 445, '2006-05-14', true, 330, 'Summit Pacific Trophy');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (141, 286, '2002-04-21', true, 768, 'Golden Plains Championship');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (142, 297, '2014-10-10', false, 678, 'Golden Frontier Trophy');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (143, 42, '2029-07-31', false, 740, 'Silver Shield Cup');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (143, 42, '2009-07-31', false, 740, 'Silver Shield Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (144, 42, '2024-07-29', true, 201, 'Dragon Valley Trophy');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (145, 269, '2007-08-28', false, 6, 'Highspire Masters Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (146, 475, '2019-12-14', true, 222, 'Freedom Nations Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (147, 165, '2017-07-21', true, 865, 'Continental Classic Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (148, 376, '2019-01-08', true, 673, 'Capital Crown Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (149, 185, '2006-02-11', true, 114, 'Heritage Honor Cup');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (150, 490, '2027-04-22', false, 938, 'Honorbound Football Cup');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (150, 490, '2017-04-22', false, 938, 'Honorbound Football Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (151, 285, '2018-03-10', true, 349, 'Summit Elite Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (152, 480, '2001-01-22', true, 983, 'Stormbreakers Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (153, 192, '2019-09-11', false, 333, 'Centennial Classic Cup');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (154, 292, '2027-05-04', false, 900, 'United Stars Trophy');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (154, 292, '2017-05-04', false, 900, 'United Stars Trophy');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (155, 395, '2010-01-01', false, 695, 'Southern Stars Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (156, 150, '2003-09-24', true, 557, 'Continental Crest Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (157, 392, '2006-10-14', false, 932, 'Summit Crest Championship');
@@ -161,11 +161,11 @@ insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (161, 303, '2018-04-09', true, 736, 'National Crown Invitational');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (162, 251, '2000-08-10', true, 645, 'Great Plains Nations Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (163, 86, '2010-05-25', false, 246, 'Phoenix Rising Cup');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (164, 16, '2027-12-31', true, 571, 'Global Trophy Cup');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (164, 16, '2017-12-31', true, 571, 'Global Trophy Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (165, 459, '2023-05-02', true, 597, 'Founders Legacy Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (166, 63, '2001-06-09', false, 718, 'New Dawn Invitational');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (167, 128, '2019-01-17', false, 131, 'Solaris League Cup');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (168, 348, '2029-08-20', false, 179, 'Capital Crown Cup');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (168, 348, '2019-08-20', false, 179, 'Capital Crown Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (169, 259, '2025-09-23', false, 913, 'Heritage Football Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (170, 163, '2001-04-05', false, 31, 'Liberty Nations Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (171, 41, '2005-08-16', false, 998, 'Eternal Cup of Champions');
@@ -183,7 +183,7 @@ insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (183, 104, '2023-02-03', true, 778, 'Tournament of Excellence');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (184, 353, '2002-10-30', true, 406, 'Premier League Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (185, 427, '2016-04-14', true, 302, 'Global Trophy Cup');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (186, 214, '2027-04-28', true, 382, 'United Stars Trophy');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (186, 214, '2017-04-28', true, 382, 'United Stars Trophy');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (187, 26, '2009-05-30', false, 791, 'Crystal Crown Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (188, 184, '2008-03-11', false, 835, 'Capital Crown Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (189, 471, '2003-08-25', false, 70, 'National Crown Invitational');
@@ -193,8 +193,11 @@ insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (193, 382, '2012-05-29', false, 27, 'Crimson Nations Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (194, 25, '2007-03-15', false, 788, 'Emerald Ridge Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (195, 456, '2019-10-19', true, 47, 'Tournament of Excellence');
-insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (196, 420, '2029-11-11', true, 375, 'Blackwater Cup Series');
+insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (196, 420, '2019-11-11', true, 375, 'Blackwater Cup Series');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (197, 403, '2026-11-22', true, 800, 'Freedom Cup Series');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (198, 333, '2013-11-20', true, 585, 'Legends Victory Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (199, 263, '2004-12-17', true, 417, 'Emerald Forest Cup');
 insert into Cups (cup_id, town_id, started, is_finished, winner_id, name) values (200, 190, '2018-09-30', true, 327, 'Mountain Peak Cup');
+
+
+DELETE FROM Cups WHERE cup_id = 143
